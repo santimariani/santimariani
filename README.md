@@ -5,7 +5,7 @@
 Here are <b><u>TOP 7 SANTI LORE FACTS</b></u>:
 
 • 🇦🇷 I'm originally from Argentina (so, hablo español). <br>
-• 🎭 I once performed in a children’s opera and had a BLAST doing it. <br>
+• 🎭 I once performed in a children’s opera and had a BLAST doing it! <br>
 • 💵 Finance degree? Check. Nerdy charm? Double check. <br>
 • 🍷 I’ve sipped hot wine in Poland and touched Michelangelo's Pieta in Italy (fancy, right?). <br>
 • 🐄 Stardew Valley helped me through the 2020 lockdown — farming, but make it pixelated. <br>
