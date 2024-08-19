@@ -1,6 +1,6 @@
-<b><u>WHY, HELLO THERE!</b></u> 👋😄
+<b><u>WHY, HELLO THERE!</b></u> 😄
 
-<i>My name is Santi, a full-stack developer with a deep love for beauty and logic, a curious eye for innovation and problem-solving, and an insatiable appetite for continual learning and growth.</i>
+<i>My name is</i> Santi, <i>a full-stack developer with a deep love for beauty and logic, a curious eye for innovation and problem-solving, and an insatiable appetite for continual learning and growth.</i>
 
 Here are <b><u>TOP 10 SANTI LORE FACTS</b></u>:
 
@@ -19,4 +19,4 @@ For more, see https://www.santimariani.com!
 
 To work on projects together, contact me at santi@gospartanburg.com.
 
-Looking forward to hearing from ya! 
+Looking forward to hearing from ya! 👋
