@@ -1,8 +1,8 @@
-WHY, HELLO THERE! 👋😄
+<b><u>WHY, HELLO THERE!</b></u> 👋😄
 
-My name is Santi, a full-stack developer with a deep love for beauty and logic, a curious eye for innovation and problem-solving, and an insatiable appetite for continual learning and growth.
+<i>My name is Santi, a full-stack developer with a deep love for beauty and logic, a curious eye for innovation and problem-solving, and an insatiable appetite for continual learning and growth.</i>
 
-Here are <b>TOP 10 SANTI LORE FACTS</b>:
+Here are <b><u>TOP 10 SANTI LORE FACTS</b></u>:
 
 • 🇦🇷 I'm originally from Argentina (so, hablo español). <br>
 • 🏠 I live in Spartanburg and LOVE it! <br>
