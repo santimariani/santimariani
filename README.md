@@ -13,7 +13,7 @@ Here are <b><u>TOP 10 SANTI LORE FACTS</b></u>:
 • 🐄 Stardew Valley helped me through the 2020 lockdown — farming, but make it pixelated. <br>
 • 🍹 I’m a co-creator of the Spartanburg Cocktail Masters (and yes, it’s as cool as it sounds). <br>
 • 🥾 When not coding, you’ll find me hiking, avoiding sandy beaches, or watching Minecraft streams. <br>
-• 🤓 Did I mention I’m a proud certified geek, nerd, and dork? 'Cause, no cap, I essentially am. <br>
+• 🤓 Did I mention I’m a certified geek, nerd, and dork? 'Cause, no cap, I essentially am. <br>
 
 For more, see https://www.santimariani.com!
 
