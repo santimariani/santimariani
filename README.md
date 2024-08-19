@@ -1,4 +1,4 @@
-WHY, HELLO THERE! 👋🏻
+WHY, HELLO THERE! 👋😄
 
 My name is Santi, a full-stack developer with a deep love for beauty and logic, a curious eye for innovation and problem-solving, and an insatiable appetite for continual learning and growth.
 
