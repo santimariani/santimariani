@@ -3,6 +3,7 @@
 <i>My name is</i> Santi, <i>a full-stack developer with a deep love for beauty and logic, a curious eye for innovation and problem-solving, and an insatiable appetite for continual learning and growth.</i>
 
 Here are <b><u>TOP 7 SANTI LORE FACTS</b></u>:
+
 • 🇦🇷 I'm originally from Argentina (so, hablo español). <br>
 • 🎭 I once performed in a children’s opera and had a BLAST doing it. <br>
 • 💵 Finance degree? Check. Nerdy charm? Double check. <br>
