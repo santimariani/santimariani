@@ -1,10 +1,10 @@
-WHY, HELLO THERE! :)
+WHY, HELLO THERE! 👋🏻
 
 My name is Santi, a full-stack developer with a deep love for beauty and logic, a curious eye for innovation and problem-solving, and an insatiable appetite for continual learning and growth.
 
 Here are some quick Santi Lore facts:
 
-• 🇦🇷 I'm originally from Argentina (so, hablo español).
+• 🇦🇷 I'm originally from Argentina (so, hablo español). <br></br.
 • 🏠 I live in Spartanburg and LOVE it!
 • 🎭 I once performed in a children’s opera and had a BLAST doing it.
 • 💵 Finance degree? Check. Nerdy charm? Double check.
