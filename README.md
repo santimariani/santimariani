@@ -20,3 +20,18 @@ For more, see https://www.santimariani.com!
 To work on projects together, contact me at santi@gospartanburg.com.
 
 Looking forward to hearing from ya! 👋
+
+<p align="center">
+  <a href="https://github.com/santimariani">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=santimariani&theme=transparent" />
+  </a>
+  <a href="https://github.com/ChristopherBilg">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=santimariani&hide_border=true&card_width=338&theme=transparent" />
+  </a>
+  <a href="https://github.com/ChristopherBilg">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=santimariani&theme=transparent" />
+  </a>
+  <a href="https://github.com/santimariani">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=santimariani&langs_count=10&card_width=699&hide_border=true&theme=transparent" />
+  </a>
+</p>
