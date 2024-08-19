@@ -4,8 +4,8 @@ My name is Santi, a full-stack developer with a deep love for beauty and logic, 
 
 Here are some quick Santi Lore facts:
 
-• 🇦🇷 I'm originally from Argentina (so, hablo español). <br></br>.
-• 🏠 I live in Spartanburg and LOVE it!
+• 🇦🇷 I'm originally from Argentina (so, hablo español). <br>
+• 🏠 I live in Spartanburg and LOVE it! <br>
 • 🎭 I once performed in a children’s opera and had a BLAST doing it.
 • 💵 Finance degree? Check. Nerdy charm? Double check.
 • 🍷 I’ve sipped hot wine in Poland and touched Michelangelo's Pieta in Italy (fancy, right?).
